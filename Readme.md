@@ -16,7 +16,7 @@ ShopHub is an intuitive and stylish e-commerce platform designed to provide a se
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/shophub.git
+git clone https://github.com/amber305/shophub.git
 cd shophub
 npm install
 npm run dev
